@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/pernaslund/Develop/aspnet-test/aspnet-test/bin/Debug/netcoreapp1.0'
+let g:netrw_dirhist_2='/private/var/folders/ny/j8k4c51d24s5gx205_c1b17m0000gn/0'
+let g:netrw_dirhist_3='/private/var/folders/ny/j8k4c51d24s5gx205_c1b17m0000gn/C'
+let g:netrw_dirhist_4='/private/var/folders/ny/j8k4c51d24s5gx205_c1b17m0000gn/Cleanup At Startup'
+let g:netrw_dirhist_5='/private/var/folders/ny/j8k4c51d24s5gx205_c1b17m0000gn/T'
+let g:netrw_dirhist_6='/Users/pernaslund/Library/Application Support/iTerm/Scripts'
